@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Gentle Rhythm
+
+This log tracks the cryptographic history and versioning for the song **Your Gentle Rhythm** (your-gentle-rhythm).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-10T20:16:14.955960 | `v1` | `be05cc6a41ee457d23c64e9137ddbea4bcae372d4674309231d59eb080885de5` | `366f0f314c121fe357f4b53d3f2fbe99a153e4702f9af991a09ac4faf56429a3` | `2026-06-10_your-gentle-rhythm-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

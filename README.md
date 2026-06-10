@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-gentle-rhythm/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Your Gentle Rhythm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-gentle-rhythm/) |
+| **Get License** | [Music Rights & Licensing for Your Gentle Rhythm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-gentle-rhythm/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when our shadows intertwine
+> A slow and steady heat is running down my spine
+> Your fingertips are tracing maps upon my skin
+> This is the only place I ever want to begin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
